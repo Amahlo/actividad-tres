@@ -19,3 +19,27 @@
     align-items: center;
     box-sizing: border-box;
 }
+
+.logo{
+    margin: 0;
+}
+
+.logo-texto{
+    margin: 0;
+    font-weight: 900;
+    font-size: 1.5rem;
+    color: #f97316;
+    letter-spacing: 2px;
+}
+
+.nav{
+    display: flex;
+    gap: 40px;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: #d6d3d1;
+    font-weight: 500;
+    font-size: 1rem;
+}
