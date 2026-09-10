@@ -1,0 +1,21 @@
+.body-wrapper{
+    margin: 0;
+    padding: 0;
+    background-color: #1c1917;
+    font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    color: #fafaf9;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.header{
+    background-color: #292524;
+    padding: 15px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+}
